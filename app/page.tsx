@@ -136,7 +136,7 @@ export default function BaisakhiMelaMusicalPortal() {
     });
   }, [query, category]);
 
-  const openVideo = (video) => {
+  const openVideo = (video: (typeof videos)[number]) => {
     setSelectedVideo(video);
     setIsModalOpen(true);
   };
