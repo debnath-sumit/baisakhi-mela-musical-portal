@@ -48,7 +48,7 @@ const videos = [
   {
     id: 4,
     title: "নদীর কূল নাই কিনার নাইরে",
-    performer: "",
+    performer: "Upal & Rifat",
     category: "Vocal",
     description: "A Bengali folk performance from the Baisakhi Mela musical evening.",
     youtubeUrl: "https://youtu.be/hlfXIHvAc1o",
@@ -104,7 +104,7 @@ const videos = [
   {
     id: 11,
     title: "Cafe",
-    performer: "Local Artist",
+    performer: "Purnendu & Rifat & Aritra",
     category: "Vocal",
     description: "A live performance of Cafe from the Baisakhi Mela musical evening.",
     youtubeUrl: "https://youtu.be/KqboIipPQGs",
